@@ -18,3 +18,19 @@ img{
     margin-top: 20px;
     font-size: 18px;
 }
+.years {
+    font-weight: bold;
+}
+.qoute {
+    font-style: italic;
+}
+#end{
+    font-weight: bold;
+}
+a{
+    color : blue;
+}
+#main-div{
+    padding: 10rem;
+    padding-top: 1rem;
+}
